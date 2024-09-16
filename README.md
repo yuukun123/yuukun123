@@ -29,3 +29,7 @@ Study Java C++ Python 🤖
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yuukun123&show_icons=true&locale=en" alt="yuukun123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuukun123&" alt="yuukun123" /></p>
+
+<img src="https://raw.githubusercontent.com/yuukun123/yuukun123/output/snake.svg" alt="Snake animation" />
+
+###
