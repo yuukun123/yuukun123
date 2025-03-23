@@ -70,7 +70,7 @@ Study Java C++ Python 🤖
   </a> 
   
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-    <img src="https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
   </a>
 
 
