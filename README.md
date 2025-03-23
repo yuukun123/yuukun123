@@ -79,7 +79,7 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Sublime Text, Adobe Photoshop, Adobe
   <br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yuukun123/yuukun123/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yuukun123/yuukun123/main/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
 
