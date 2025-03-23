@@ -92,8 +92,9 @@ Study Java C++ Python 🤖
   </a>
   
   <a href="https://www.sublimetext.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="sublime text" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/sublimetext/FF9800" alt="sublime text" width="40" height="40"/>
   </a>
+
   
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
