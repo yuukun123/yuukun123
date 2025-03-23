@@ -13,8 +13,14 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 <h3 align="center">A passionate AI Engineer</h3>
-Learning AI Engineer 🤖 <br>
-Study Java, C++, Python 🤖
+I am an AI Engineer who is passionate about exploring cutting-edge technology and developing smart solutions for real-world problems.  
+I love learning new programming languages, frameworks, and tools to improve my skills every day.  
+
+I currently work with and study a variety of technologies, including:  
+Java, C++, Python, PHP, HTML, CSS, JavaScript, SQL Server, MySQL, Matlab, and Docker.  
+
+I also use a wide range of development environments and design tools, such as:  
+PyCharm, IntelliJ IDEA, Visual Studio Code, Sublime Text, Adobe Photoshop, Adobe Illustrator, and Adobe After Effects.  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuukun123&label=Profile%20views&color=0e75b6&style=flat" alt="yuukun123" />
