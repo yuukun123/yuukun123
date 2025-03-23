@@ -70,8 +70,9 @@ Study Java C++ Python 🤖
   </a> 
   
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-after-effects-1.svg" alt="after effects" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/>
   </a>
+
 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
