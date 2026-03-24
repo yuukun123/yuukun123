@@ -26,11 +26,6 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Sublime Text, Adobe Photoshop, Adobe
   <img src="https://komarev.com/ghpvc/?username=yuukun123&label=Profile%20views&color=0e75b6&style=flat" alt="yuukun123" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yuukun123" alt="github trophies" />
-  </a>
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
