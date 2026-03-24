@@ -65,25 +65,4 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Sublime Text, Adobe Photoshop, Adobe
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuukun123&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuukun123&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuukun123&" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-  <br>
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/yuukun123/yuukun123/output/github-contribution-grid-snake.svg" /
-  <br/><br/><br/>
-</div>
-
-
-<hr/>
