@@ -11,11 +11,13 @@
 <h3 align="center">A passionate AI Application Engineer</h3>
 I am an **AI Application Engineer** specializing in bridging the gap between artificial intelligence and real-world systems. My focus lies in integrating smart solutions into software architectures and hardware platforms to solve practical problems. 
 <br>
-Beyond implementation, I am driven by a passion for exploring emerging technologies and optimizing how AI interacts with both the digital and physical world. This curiosity fuels my constant desire to master new programming languages, frameworks, and tools every day.
 <br>
+
+Beyond implementation, I am driven by a passion for exploring emerging technologies and optimizing how AI interacts with both the digital and physical world. This curiosity fuels my constant desire to master new programming languages, frameworks, and tools every day.
+
 I currently work with and study a variety of technologies, including:  
 Java, C++, Python, HTML, CSS, JavaScript, SQL Server, MySQL, Matlab, and Docker.  
-<br>
+
 I also use a wide range of development environments and design tools, such as:  
 PyCharm, IntelliJ IDEA, Visual Studio Code, Adobe Photoshop, Adobe Illustrator, and Adobe After Effects.
 <br>
