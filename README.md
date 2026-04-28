@@ -8,9 +8,10 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-<h3 align="center">A passionate AI Engineer</h3>
-I am an AI Engineer who is passionate about exploring cutting-edge technology and developing smart solutions for real-world problems.  
-I love learning new programming languages, frameworks, and tools to improve my skills every day.  
+<h3 align="center">A passionate AI Application Engineer</h3>
+I am an **AI Application Engineer** specializing in bridging the gap between artificial intelligence and real-world systems. My focus lies in integrating smart solutions into software architectures and hardware platforms to solve practical problems. 
+
+Beyond implementation, I am driven by a passion for exploring emerging technologies and optimizing how AI interacts with both the digital and physical world. This curiosity fuels my constant desire to master new programming languages, frameworks, and tools every day.
 
 I currently work with and study a variety of technologies, including:  
 Java, C++, Python, HTML, CSS, JavaScript, SQL Server, MySQL, Matlab, and Docker.  
