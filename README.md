@@ -58,6 +58,3 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Sublime Text, Adobe Photoshop, Adobe
   <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://cdn.simpleicons.org/sublimetext/FF9800" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> </a>
 </p>
-
-
-
