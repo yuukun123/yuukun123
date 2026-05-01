@@ -35,7 +35,7 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Adobe Photoshop, Adobe Illustrator, 
 
 ### 🛠 Languages & Tools:
 
-#### 🚀 Programming Languages
+🚀 Programming Languages
 <table>
   <tr>
     <td><a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="python"/></a></td>
@@ -49,7 +49,7 @@ PyCharm, IntelliJ IDEA, Visual Studio Code, Adobe Photoshop, Adobe Illustrator, 
     <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="css3"/></a></td>
   </tr>
 </table>
-#### 🧠 AI & Databases & DevOps
+🧠 AI & Databases & DevOps
 <table>
   <tr>
     <td><a href="https://www.mathworks.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="45" alt="matlab"/></a></td>
