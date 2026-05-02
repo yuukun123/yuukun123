@@ -1,4 +1,4 @@
-Hi there! I'm Yuu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I'm Yuu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
   <a href="https://github.com/yuukun123" target="_blank">
