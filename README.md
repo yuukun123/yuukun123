@@ -7,7 +7,7 @@
 </p>
 
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"/> About Me:
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45"/> About Me:
 <h3 align="center">A passionate AI Application Engineer</h3>
 I am an **AI Application Engineer** specializing in bridging the gap between artificial intelligence and real-world systems. My focus lies in integrating smart solutions into software architectures and hardware platforms to solve practical problems. 
 <br>
